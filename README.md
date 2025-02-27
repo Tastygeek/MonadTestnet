@@ -82,7 +82,7 @@ MonadTestnet/
 
 ## Instructions
 
-1. git clone https://github.com/Naeaerc20/MonadTestnet
+1. git clone https://github.com/Tastygeek/MonadTestnet
 2. cd MonadTestnet
 3. npm install
 4. Use some of the following prompts to interact with this CLI
